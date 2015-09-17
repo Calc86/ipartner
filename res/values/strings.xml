@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iptest</string>
+    <string name="controller_error_network">controller_error_network</string>
+    <string name="controller_error_server">controller_error_server</string>
+    <string name="controller_error_exception">controller_error_exception</string>
+    <string name="wait">wait</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="ok">ok</string>
+    <string name="error_get_data">error_get_data</string>
+</resources>
